@@ -1,13 +1,15 @@
 # OsirisJailbreak12
 iOS 12.0 -> 12.1.2 Incomplete Jailbreak with CVE-2019-6225
 
-An incomplete iOS 12 Jailbreak. For now it only runs the exploit, gets tfp0, gets ROOT, escapes the SandBox, writes a test file to prove the sandbox was escaped then resprings. Feel free to build on top of it as long as you respect the GPLv3 license.
+An incomplete iOS 12 Jailbreak. For now it only runs the exploit, gets tfp0, gets ROOT, escapes the SandBox, writes a test file to prove the sandbox was escaped, then resprings the device. 
 
-Older (4K) devices are not supported for now. 16K devices are A12 is experimental - may not work..
+Feel free to build on top of it as long as you respect the GPLv3 license.
 
-In order to compile this app, you need to add `qilin.o` to the project. This can be downloaded from http://newosxbook.com/QiLin/qilin.o
+Older (4K) devices are unsupported for now. 16K devices/A12 devices are experimental and may not work.
 
-### DEVELOPER JAILBREAK! NOT FOR THE GENERAL PUBLIC
+In order to compile this app, you will need to add `qilin.o` to the project. This can be downloaded from [here.](http://newosxbook.com/QiLin/qilin.o)
+
+### REMEMBER, THIS IS A DEVELOPER JAILBREAK! NOT FOR THE GENERAL PUBLIC.
 
 ### Demo video:
 https://twitter.com/FCE365/status/1090770862238777344
